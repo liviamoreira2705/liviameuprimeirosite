@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(241, 137, 95);
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+#identificador1{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+#identificador2{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+.classe1{
+    border-left: 4px solid white;
+    border-bottom: 2px solid white;
+    color: black;
+
+}
